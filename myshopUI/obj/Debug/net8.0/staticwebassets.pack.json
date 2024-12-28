@@ -1,0 +1,1033 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\myshopUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\myshopUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\02a7ea31-1096-4acc-99ad-d708a75c6688.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\02a7ea31-1096-4acc-99ad-d708a75c6688.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\035afc1e-b77f-4b5b-9eb7-7d7991bea349.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\035afc1e-b77f-4b5b-9eb7-7d7991bea349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\1198e589-c4ff-45a6-81da-6bb51a1a23be.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\1198e589-c4ff-45a6-81da-6bb51a1a23be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\16334666-9418-4950-a62a-d40d855aa437.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\198e561d-fe60-4a1d-96dc-d27a77887f08.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\198e561d-fe60-4a1d-96dc-d27a77887f08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\248aaba6-43c9-442d-82f9-b4e0a1b89aa6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\248aaba6-43c9-442d-82f9-b4e0a1b89aa6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\28aaeb07-d80b-4030-ad20-774cc0f967a8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\28aaeb07-d80b-4030-ad20-774cc0f967a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\2c7d5cb7-86b7-4913-900b-d8e394f28aa2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2c7d5cb7-86b7-4913-900b-d8e394f28aa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\2fd8b2b2-7387-4080-b305-2501050a8218.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2fd8b2b2-7387-4080-b305-2501050a8218.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\3ab06290-2a1d-4abd-983b-66141b925fdc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\3ab06290-2a1d-4abd-983b-66141b925fdc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\40400314-7c8b-4bdb-b7b7-cec4f0cb861d.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\40400314-7c8b-4bdb-b7b7-cec4f0cb861d.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\42af8ba8-65df-417b-908c-ffb6cfcdfc0c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\42af8ba8-65df-417b-908c-ffb6cfcdfc0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\4c4284fe-3fed-4d26-953a-d12762d3e240.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4c4284fe-3fed-4d26-953a-d12762d3e240.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\5abecd7a-f312-41b5-9051-5a7d3b8c29b5",
+      "PackagePath": "staticwebassets\\Images\\Products"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\5f4d61ba-5f02-4a22-8305-1148a341710f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\64bdc0f2-1c6a-4b74-88e2-4a68b2cc213a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\64bdc0f2-1c6a-4b74-88e2-4a68b2cc213a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\6d9ae1a7-505a-4416-8a78-e70a1c2d6816.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6d9ae1a7-505a-4416-8a78-e70a1c2d6816.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\6e4d4b55-22b1-4358-834f-2cecc6123b3c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6e4d4b55-22b1-4358-834f-2cecc6123b3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6f147049-df7e-4877-ab8f-56d8966dac89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\7462ab44-1ae1-490d-bf55-c3c550ce72c2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\7462ab44-1ae1-490d-bf55-c3c550ce72c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\7d3c02d2-1d67-4ab3-aec5-82ac69cf1974.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\7d3c02d2-1d67-4ab3-aec5-82ac69cf1974.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\85c32add-7f39-465b-8a15-c6cb97a47c32.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\85c32add-7f39-465b-8a15-c6cb97a47c32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\8b3492a3-7fbd-4356-adaf-532482a6e48e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\8ede2b3b-ae2d-4b87-a15e-be0298d3f3e8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\8ede2b3b-ae2d-4b87-a15e-be0298d3f3e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\8fc0a8d0-f1c0-4bca-9b0a-2cebff026cda.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\922f1001-8532-4e79-8964-3e843303d624.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\922f1001-8532-4e79-8964-3e843303d624.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\927524ce-cf58-4eea-9e36-d29b9edc539a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\927524ce-cf58-4eea-9e36-d29b9edc539a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\94ce7506-5034-4417-a9f2-4697c06ea99a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\955418e2-04ba-4090-8bd4-a3d9269efad7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\955418e2-04ba-4090-8bd4-a3d9269efad7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\9a97b6b2-b0f0-4310-ba8b-26a168f48de2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\9a97b6b2-b0f0-4310-ba8b-26a168f48de2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\9fa440f7-ff60-4d15-ae0e-dbf6cfdcf025.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\9fa440f7-ff60-4d15-ae0e-dbf6cfdcf025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\a729680b-bd04-4f73-9031-aaeccd0c18f3",
+      "PackagePath": "staticwebassets\\Images\\Products"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\a76c3678-23ae-48ab-a4b1-84b7d22bf27f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\a76c3678-23ae-48ab-a4b1-84b7d22bf27f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\ac682fc5-fad4-485e-a800-a2a2893fa8ab.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ac682fc5-fad4-485e-a800-a2a2893fa8ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\b1189d85-db88-4f3c-809f-b0b6c62681cd",
+      "PackagePath": "staticwebassets\\Images\\Products"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\bf36fcdf-954c-4602-8623-6711534e873e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\bf36fcdf-954c-4602-8623-6711534e873e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\c6ac0710-01e4-4706-b42d-573d2aeb6f0e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c6ac0710-01e4-4706-b42d-573d2aeb6f0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\cc5daf8c-d71b-4a7b-b212-f923aa0274a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\ccaa23fa-bc95-4135-801a-b494cdad664b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ccaa23fa-bc95-4135-801a-b494cdad664b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\d3218fc2-cdf5-4733-b90f-1199e1cb6cae.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\d3218fc2-cdf5-4733-b90f-1199e1cb6cae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\db590e24-c031-400f-8b80-28e03ca2dc83",
+      "PackagePath": "staticwebassets\\Images\\Products"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\e1b82bb1-13bc-40fe-a3a0-8dc18e0425ab.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e1b82bb1-13bc-40fe-a3a0-8dc18e0425ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\e449de66-b351-4894-a281-129f38b67ac5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e449de66-b351-4894-a281-129f38b67ac5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\e5e7c3b5-2a6f-4872-8e3c-22afbed77059.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e5e7c3b5-2a6f-4872-8e3c-22afbed77059.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\e83e67da-f0c5-4af6-bc26-5e16dddc8da2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e83e67da-f0c5-4af6-bc26-5e16dddc8da2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\ea517acd-8131-47ea-bc80-02047ae9c90f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ea517acd-8131-47ea-bc80-02047ae9c90f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\ed0fc263-1af4-4bce-95d5-998b972cf458.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ed0fc263-1af4-4bce-95d5-998b972cf458.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\Images\\Products\\ef491e09-7bef-4e18-af5c-71441104b8eb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ef491e09-7bef-4e18-af5c-71441104b8eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\css\\summary.css",
+      "PackagePath": "staticwebassets\\css\\summary.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\customer\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\confirm.jpg",
+      "PackagePath": "staticwebassets\\img\\confirm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\icons.png",
+      "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\login@4x.png",
+      "PackagePath": "staticwebassets\\img\\login@4x.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\products.js",
+      "PackagePath": "staticwebassets\\js\\products.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery-ui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\shoppingcart\\index.html",
+      "PackagePath": "staticwebassets\\shoppingcart\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\.net project\\myshopUI\\myshopUI\\wwwroot\\shoppingcart\\style.css",
+      "PackagePath": "staticwebassets\\shoppingcart\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.myshopUI.props",
+      "PackagePath": "build\\myshopUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.myshopUI.props",
+      "PackagePath": "buildMultiTargeting\\myshopUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.myshopUI.props",
+      "PackagePath": "buildTransitive\\myshopUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.myshopUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

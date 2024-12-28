@@ -1,0 +1,32 @@
+﻿@model Category
+
+@{
+    ViewBag.PageTitle = "Category Managment";
+    ViewBag.CardTitle = "Create Category";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+    <div class="mb-3">
+
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control"/>
+        <span asp-validation-for="Name" class="text-danger">  </span>
+    </div>    
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"> </span>
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Create</button>
+        <a asp-action="Index" asp-controller="Category" class="btn btn-warning">Back to index</a>
+        
+    </div>
+
+
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial.cshtml" />
+    }
